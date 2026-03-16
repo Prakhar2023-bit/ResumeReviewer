@@ -1,2 +1,4 @@
 venv/
 MyResume.pdf
+.env
+faiss_resume_index/
